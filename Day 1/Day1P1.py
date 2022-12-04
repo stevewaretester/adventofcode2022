@@ -1,5 +1,6 @@
 #https://adventofcode.com/2022/day/1
 
+
 topElfSum=0
 for elf in open("Day 1/input.txt","r").read().split('\n\n'):
     elfSum = 0
